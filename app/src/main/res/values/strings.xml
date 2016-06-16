@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Elvis</string>
+    <string name="user_name">Elvis Presly</string>
+    <string name="message">Сообщение</string>
+    <string name="your_friend">У Вас в друзьях</string>
+
+</resources>
